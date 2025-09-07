@@ -5,7 +5,8 @@ This project demonstrates **real-world enterprise architecture** using **Spring 
 .
 
 
-<img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/c10b53ea-dda5-49c7-a823-f5871e3fa8b6" />
+![Airbrush-Image-Enhancer-1757289299767](https://github.com/user-attachments/assets/baa8c732-ec35-473a-a349-ac7d052580a1)
+
 
 ---
 
